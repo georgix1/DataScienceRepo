@@ -1,2 +1,2 @@
 # DataScienceRepo
-Coursera DataScience Repository
+georgix1's Coursera Data Science Repository
